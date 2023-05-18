@@ -14,7 +14,7 @@ This time I said that I would achieve two aims at once. Instead of listening to 
 This is how I developed the Tabaghe16 app and listened to 2-3 episodes during development.
 <br/>
 Perhaps a dedicated application for listening to podcasts is not very interesting and everyone prefers to use a podcast platform. It doesn't matter at all :D
-
+[Download](https://github.com/Reza-Babakhani/tabaghe16-podcat/releases/download/v1/tabaghe16.apk)
 
 
 <img align='left' src='screenshot/min1.webp' width='200'>
