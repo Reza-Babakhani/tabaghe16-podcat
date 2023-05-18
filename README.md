@@ -16,3 +16,7 @@ This is how I developed the Tabaghe16 app and listened to 2-3 episodes during de
 Perhaps a dedicated application for listening to podcasts is not very interesting and everyone prefers to use a podcast platform. It doesn't matter at all :D
 
 
+
+<img align='left' src='screenshot/min1.webp' width='200'>
+<img align='left' src='screenshot/min2.webp' width='200'>
+<img align='left' src='screenshot/min3.webp' width='200'>
