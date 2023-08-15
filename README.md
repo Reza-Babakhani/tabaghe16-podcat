@@ -7,7 +7,7 @@ I am one of the listeners of the Tabaghe16 podcast, from which I learned a lot. 
 <br/>
 If you're a programmer, chances are you listen to a podcast while coding. At least I am like this. One of those podcasts that I listen to while coding is Tabaghe16. Thanks to Sohail Alavi.
 
-I already said on my [about page](https://rezababakhani.ir/about) that Flutter is very attractive and lovely to me. I always like to define a Flutter side project next to the commercial back-end projects I have.
+I already said on my [about page](https://rezababakhani.ir/about) that Flutter is very attractive and lovely to me. I always like to define a Flutter side project next to the commercial projects I have.
 <br/>
 This time I said that I would achieve two aims at once. Instead of listening to the podcast while coding, I code the podcast. ㋡
 <br/>
